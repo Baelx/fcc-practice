@@ -5,3 +5,4 @@ function destroyer(arr) {
 destroyer([1, 2, 3, 1, 2, 3], 2, 3);
 
 //using filter and attributes object
+//filter will use function parameters as array values
